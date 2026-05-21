@@ -1,2 +1,2 @@
 # edaI_P09
-phyton
+Introducción al lenguaje de programación Python.
